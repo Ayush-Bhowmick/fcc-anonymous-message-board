@@ -4,9 +4,6 @@
 
 This is a project I made for the freeCodeCamp curriculum where the camper was asked to do an Anonymouse Message Board as a back-end project using **MongoDB**, **Express** and **Node**. The client side was not a requisite, but I made it a fullstack MERN app from start to finish by using **React** + **React Router** for the interactivity and **Bulma** for the styling.
 
-#### Screenshot
-
-![Screenshot](Screenshot.png)
 
 #### Try it out!
 
